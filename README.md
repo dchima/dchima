@@ -1,11 +1,22 @@
-### Hi there 👋🏾 
+### Hi there, this is Chima 👋🏾 
 
 I’m a Full Stack Developer, Writer and Product Designer.
 
 I currently <a href='https://danielchima.com/projects'>build things</a> for the internet @ <a href='https://www.keystonebankng.com/' target='_blank'>Keystone Bank</a>.
 
+🔭 I build with:
+
+- Node.js
+- React / Redux
+- GraphQL
+- React Native
+- C/Cpp
+- Javascript
+- Python
+
+### About me 🌟
 I am a <a href='https://www.goodreads.com/review/list/112872457-chima-daniel' target='_blank'>bibliophile,</a> <a href='https://open.spotify.com/user/xyggj57mzmnmx51g1qkit74bo?si=1kgEEoxYTneS2iLN53AVEg' target='_blank'>melophile,</a> <a href='https://letterboxd.com/dxnhima/films/' target='_blank'>cinephile,</a> and your everyday <a href='https://myanimelist.net/animelist/dxnchima' target='_blank'>otaku.</a> <br/><br/>
-    🌟<br/>
+    <br/>
  
 Over the years, I’ve curated a collection of <a href='https://danielchima.com/bestof'>great works</a> from all across the web. These are, in my opinion, the best of the internet.
 
