@@ -22,7 +22,7 @@ I also collect <a href='https://www.notion.so/78df0ecf0cea473a84eb7f99f34c7470?v
     <a href='https://dev.to/dxnchima' target='_blank'>dev.to,</a> and <a href='https://desolationweb.substack.com/' target='_blank'>substack.</a>
 
 ### More 🐝  
-- 🔭 I’m currently working on: A pretty nifty exercise application usig 4 different framweorks for its service (Ruby, GraphQL, .NET, Flask). It's an exercise in microservice architectures. I also hope to need gRPC in the long run. I'd like to know what that's all about.
+- 🔭 I’m currently working on: A pretty nifty exercise application using different framweorks for its services (Ruby, GraphQL, .NET, Flask). It's an exercise in setting up an effective microservice architecture. I also hope to need gRPC in the long run. I'd like to know what that's all about.
 - 🌱 I’m currently learning: Ruby, .NET
 - 👯 I’m looking to collaborate on: Anything that catches my vibe.
 - 🤔 I’m looking for help with: Machine Learning and Unity game development (Seriously, if you can find me a good doc on the latter i'll buy you coffee).
