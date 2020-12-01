@@ -9,7 +9,7 @@ I currently <a href='https://danielchima.com/projects'>build things</a> for the 
 - React / Redux
 - GraphQL
 - React Native
-- C/Cpp
+- C/C++
 - Javascript
 - Python
 
