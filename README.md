@@ -10,7 +10,7 @@ I currently <a href='https://danielchima.com/projects'>build things</a> for the 
 - GraphQL
 - React Native
 - C/C++
-- Javascript
+- Javascript / Typescript
 - Python
 
 ### About me 🌟
