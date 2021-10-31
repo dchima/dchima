@@ -2,7 +2,7 @@
 
 I’m a Full Stack Developer, Writer and Product Designer.
 
-I currently <a href='https://danielchima.com/projects'>build things</a> for the internet @ <a href='https://www.keystonebankng.com/' target='_blank'>Keystone Bank</a>.
+I currently <a href='https://danielchima.com/projects'>build things</a> for the internet.
 
 ### What I work with 🚣🏿‍
 - Node.js
