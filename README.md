@@ -8,6 +8,7 @@ I currently <a href='https://danielchima.com/projects'>build things</a> for the 
 - Node.js
 - React / Redux
 - GraphQL
+- Rails
 - React Native
 - C/C++
 - Javascript / Typescript
