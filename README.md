@@ -1,5 +1,6 @@
 
-![79999_copyist_lg](https://github.com/dchima/dchima/assets/37340699/3f61c667-937d-45e4-b8b0-663b38d3c1c1)
+![e5429c504570f0f7e44e73ad0ff527cd](https://github.com/user-attachments/assets/f1c8074f-376f-4b33-925f-48e3d3fa5cc5)
+
 
 
 ### Hi there, I'm Chima 👋🏾 
