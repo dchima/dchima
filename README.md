@@ -1,6 +1,4 @@
-
-![image](https://github.com/user-attachments/assets/3a823b4b-aadd-4d2c-a735-3245b93d5453)
-
+<img width="716" alt="Screenshot 2024-11-15 at 00 49 55" src="https://github.com/user-attachments/assets/57e38354-1671-4d2b-bc5c-58f44e7cbb80">
 
 
 
